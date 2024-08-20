@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameDoanTu</string>
+    <string name="action_submit">Submit</string>
+    <string name="label_note">Unscramble the word using all the letters</string>
+    <string name="hint_input_word">Enter your word</string>
+    <string name="label_score">Score: 0</string>
+</resources>
